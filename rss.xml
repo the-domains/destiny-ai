@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Destiny AI]]></title>
+        <description><![CDATA[Destiny AI]]></description>
+        <link>https://thegrid.ai/destiny-ai/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Aug 2016 17:05:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/destiny-ai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Beautiful Speedometer for Bikes]]></title>
+            <description><![CDATA[<article><h1>A Beautiful Speedometer for Bikes</h1><p>Shout-out to designers who are also obsessed with cycling because their work frequently results in something new and clever, like the arresting Omata One. Mounted onto a bike, the speedometer's unique analog face informs of the four most relevant ride metrics (speed, distance, ascent and time).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d105236023603a813c26d257fbe058ad72b3f663.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/omata-one-analog-gps-speedometer-cycling-kickstarter</link>
+            <guid isPermaLink="false">af810055-a12b-414b-bcff-dd33e73f0b17</guid>
+            <pubDate>Sat, 13 Aug 2016 17:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sevenhugs' Smart Remote]]></title>
+            <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/sevenhugs-smart-remote</link>
+            <guid isPermaLink="false">68954ea8-f7b4-46d8-bd1b-9707e63b72d9</guid>
+            <pubDate>Sat, 13 Aug 2016 17:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mido Eyewear Show 2016]]></title>
+            <description><![CDATA[<article><h1>Mido Eyewear Show 2016</h1><p>While you might not have heard of it, Italy's Mido Eyewear Show is the leading event for eyewear professionals. It's an exhibition during which major international brands present their new styles and innovations for prescription specs and sunglasses-and, while it might sound like it's purely for industry members, it's fascinating for anybody interested in fashion and design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0e4e7f9c24bc25e24721945becf5f7aec28e9a0.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/mido-eyewear-show-preview-milan</link>
+            <guid isPermaLink="false">80cd8605-96d0-4d27-8b93-8d63858f517c</guid>
+            <pubDate>Sat, 13 Aug 2016 17:05:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
